@@ -2,7 +2,10 @@
 This is example how simsimi API work on python for telegram bot
 
 ## How to use
-First edit simsimi.py using text editor.
+First of all, register SimSimi API and Bot Telegram API first.
+Register SimSimi API [in here](http://developer.simsimi.com/signUp)
+Register Bot Telegram API [in here](http://t.me/BotFather)
+Then edit simsimi.py using text editor.
 Place your API Telegram bot to `TOKEN` and Simsimi API to `SimsimiKey`
 Then open terminal/cmd, install requirements first using `pip install -r requirements.txt`
 Last, run bot using `python simsimi.py`, if it say `Running bot success!` it running successfully. Test bot by yourself.
