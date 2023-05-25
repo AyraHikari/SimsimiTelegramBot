@@ -6,8 +6,8 @@ from telegram.ext import Updater
 from telegram.ext import MessageHandler
 from telegram.ext import Filters
 
-TOKEN = "YOUR BOT TOKEN FROM @BotFather"
-SimsimiKey = "YOUR SIMSIMI API TOKEN"
+TOKEN = "6091403938:AAHeKkziyRNyUP6pRh-0KfrDAyMW4rrfdZc"
+SimsimiKey = "DOkZ6c935W~kJXev~aJG0s8g.YJWHNP_Ne.1_wdu"
 
 bot = telegram.Bot(token=TOKEN)
 updater = Updater(token=TOKEN)
